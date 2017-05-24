@@ -7,7 +7,6 @@
         "example": "examples"
     },
     "scripts": {
-        "preinstall": "npm i -g grunt-cli",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Naoki Nishida",
